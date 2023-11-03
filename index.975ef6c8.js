@@ -27172,7 +27172,7 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -28765,7 +28765,7 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "Dice Roller App",
-        description: "A dice roller app game.",
+        description: "The Dice Roller App is a versatile and user-friendly tool that allows you to roll virtual dice with ease and precision.",
         url: "https://github.com/aqsa-isha/Dice-Roller-App"
     },
     {
@@ -28775,7 +28775,7 @@ const imageAltText = "desktop with books and laptop";
     },
     {
         title: "Registration App",
-        description: "A simple registration form on html, css and javascript.",
+        description: "The User Registration App is a web-based application designed to collect and store user information for a specific purpose, such as signing up for a website, newsletter, or service. It provides a user-friendly interface that allows individuals to enter their details securely. This app employs HTML for structure, CSS for styling, and JavaScript for interactivity, creating a seamless and responsive user experience.",
         url: "https://github.com/aqsa-isha/Registration-Form"
     }, 
 ];
