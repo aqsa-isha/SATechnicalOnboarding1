@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TO DO LIST WEB APP 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple To Do List Web App where you can organize and prioritize your tasks. You can add and remove tasks from your list.",
+    url: "https://github.com/aqsa-isha/TO-DO-LIST-WEB-APP",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Dice Roller App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A dice roller app game.",
+    url: "https://github.com/aqsa-isha/Dice-Roller-App",
   },
   {
-    title: "My Resume Site",
+    title: "Simple Calculator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "It's a basic calculator which performs basic operations like addition, subtraction, multiplication and division.",
+    url: "https://github.com/aqsa-isha/Simple-Calculator",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Registration App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A simple registration form on html, css and javascript.",
+    url: "https://github.com/aqsa-isha/Registration-Form",
   },
 ];
 
